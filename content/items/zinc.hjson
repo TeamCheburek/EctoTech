@@ -1,7 +1,8 @@
-hardness: 1
-color: 7cb083
+hardness: 1,
+color: 999999,
 cost: 1
-alwaysUnlocked: false
+research: bismuth
+alwaysUnlocked: true
 
 explosiveness: 0
 flammability: 0
