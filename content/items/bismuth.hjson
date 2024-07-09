@@ -1,6 +1,7 @@
 hardness: 1
 color: 7cb083
 cost: 1
+research: core-ion 
 alwaysUnlocked: false
 
 explosiveness: 0
