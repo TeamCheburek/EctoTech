@@ -1,0 +1,20 @@
+Type: CoreBlock
+health: 2000
+itemCapacity: 1000
+size: 3
+category: effect
+unitType: "beta"
+unitCapModifier: 7
+thrusterLength: 15
+isFirstTier: true,
+alwaysUnlocked: true,
+requirements: [
+ bismuth/800
+ zinc/500
+]
+
+research: {
+ root: true
+ name: Ectorum
+ requiresUnlock: false
+}
