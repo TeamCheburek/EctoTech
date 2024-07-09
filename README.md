@@ -1,2 +1,2 @@
 # EctoTech
-A very, very cool mode
+A very, very cool mod
