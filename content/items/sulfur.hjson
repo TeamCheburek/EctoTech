@@ -1,10 +1,10 @@
 hardness: 1
-color: 999999
+color: becc21
 cost: 1
-research: bismuth
+research: zinc
 alwaysUnlocked: false
 
-explosiveness: 0
-flammability: 0
+explosiveness: 0.15
+flammability: 0.70
 radioactivity: 0
 charge: 0

@@ -1,7 +1,6 @@
-hardness: 1
-color: 999999
+hardness: 5
+color: 74eedf
 cost: 1
-research: bismuth
 alwaysUnlocked: false
 
 explosiveness: 0
