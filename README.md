@@ -1,3 +1,2 @@
 # EctoTech
-A very, very cool mod 
-No, its not (Arke_)
+Someday, a description of the mod will appear here...
