@@ -3,5 +3,6 @@ name: "et"
 author: "TeamCheburek"
 description: "Your advertisement could be here"
 subtitle: "indev"
+hidden: true,
 version: "0.01 alpha"
 minGameVersion: 145
